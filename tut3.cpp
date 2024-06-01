@@ -1,3 +1,4 @@
+// Variables and comments
 #include<iostream>
 using namespace std; 
 

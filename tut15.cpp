@@ -1,5 +1,4 @@
-
-// Topic --> Functions & Function Prototypes in C++
+// Functions & Function Prototypes in C++
 
 #include<iostream>
 using namespace std;

@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    /* Function Objects : Function wrapped in a class so that it available like
+    /* Function Objects(functor) : Function wrapped in a class so that it available like
        an object*/
 
        int arr [] = { 1 , 3, 4 , 12 , 54 , 77};
